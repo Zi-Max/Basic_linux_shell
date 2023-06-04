@@ -1,1 +1,1 @@
-# Basic_linux_shell
+This is the simple shell projet
